@@ -1,4 +1,4 @@
 # algoflex
 
-Front End - Angular
+Front End - Angular\
 Back End - NestJS
